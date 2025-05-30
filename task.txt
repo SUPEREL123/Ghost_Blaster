@@ -1,0 +1,6 @@
+# reorganize code so it is cleaner
+
+# add in reward logic
+
+# add in images (you can google how to make a pygame rect as an image)
+
